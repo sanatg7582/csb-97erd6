@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sanatg7582.github.io/csb-97erd6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sanatg7582.github.io/csb-97erd6/static/js/main.332353b1.chunk.js",
+    "main.js.map": "https://sanatg7582.github.io/csb-97erd6/static/js/main.332353b1.chunk.js.map",
+    "runtime-main.js": "https://sanatg7582.github.io/csb-97erd6/static/js/runtime-main.e60ee67f.js",
+    "runtime-main.js.map": "https://sanatg7582.github.io/csb-97erd6/static/js/runtime-main.e60ee67f.js.map",
+    "static/js/2.722a2f1c.chunk.js": "https://sanatg7582.github.io/csb-97erd6/static/js/2.722a2f1c.chunk.js",
+    "static/js/2.722a2f1c.chunk.js.map": "https://sanatg7582.github.io/csb-97erd6/static/js/2.722a2f1c.chunk.js.map",
+    "index.html": "https://sanatg7582.github.io/csb-97erd6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sanatg7582.github.io/csb-97erd6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.722a2f1c.chunk.js.LICENSE.txt": "https://sanatg7582.github.io/csb-97erd6/static/js/2.722a2f1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e60ee67f.js",
+    "static/js/2.722a2f1c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.332353b1.chunk.js"
+  ]
+}
